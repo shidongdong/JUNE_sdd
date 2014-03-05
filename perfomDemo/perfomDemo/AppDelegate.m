@@ -32,7 +32,7 @@
 - (void)beginread
 {
     sleep(10);
-    NSLog(@"2222222");
+    NSLog(@"22222211112");
 }
 
 

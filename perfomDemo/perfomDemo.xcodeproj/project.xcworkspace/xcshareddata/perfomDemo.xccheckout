@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>45025816-0DA8-43DA-B063-106DEA6B848E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>perfomDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BA09BE17-A51A-4F17-9E32-98487E4B05FC</key>
+		<string>https://github.com/shidongdong/JUNE_sdd.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>perfomDemo/perfomDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BA09BE17-A51A-4F17-9E32-98487E4B05FC</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/shidongdong/JUNE_sdd.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BA09BE17-A51A-4F17-9E32-98487E4B05FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BA09BE17-A51A-4F17-9E32-98487E4B05FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JUNE_sdd</string>
+		</dict>
+	</array>
+</dict>
+</plist>
